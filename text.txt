@@ -1,8 +1,4 @@
 This is line.
 uploaded to GIT repo.
 
-all the data will be saved there.
-
-This is second day of the coding.
-
-This is third day of coding. 
+This is from main branch.
